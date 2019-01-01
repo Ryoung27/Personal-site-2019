@@ -134,15 +134,24 @@ body {
     background-blend-mode: screen;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
+    .card__picture--0 {
+      background-image: url(../img/Project-0.png);
+      height: 22rem; }
     .card__picture--1 {
       background-image: url(../img/Project-1.png);
       height: 22rem; }
     .card__picture--2 {
-      background-image: url(../img/nat-6.jpg);
-      height: 23rem; }
+      background-image: url(../img/Project-2.png);
+      height: 22rem; }
     .card__picture--3 {
-      background-image: url(../img/nat-7.jpg);
-      height: 23rem; }
+      background-image: url(../img/Project-3.png);
+      height: 22rem; }
+    .card__picture--4 {
+      background-image: url(../img/Project-4.png);
+      height: 22rem; }
+    .card__picture--5 {
+      background-image: url(../img/Project-5.png);
+      height: 22rem; }
   .card__heading {
     font-size: 2.8rem;
     font-weight: 300;
