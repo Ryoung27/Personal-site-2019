@@ -14,13 +14,17 @@
     }
 }
 
-.fab{
-    color: $color-white;
-    font-size: 2em;
-    padding: .5em;
+.outside-link{
+    padding: 0 .24em;
+    // color: $color-white;
 }
 
-.fas{
+.fab-footer{
+    color: $color-white;
+    font-size: 2em;
+}
+
+.fas-footer{
     color: $color-white;
     font-size: 2em;
 }
