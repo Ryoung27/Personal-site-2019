@@ -4,6 +4,10 @@
     font-size: 1.4rem;
     color: $color-white;
 
+    @include respond(tab-port){
+        padding: 8rem 0;
+    }
+
     &__logo-box{
         text-align: center;
     }
