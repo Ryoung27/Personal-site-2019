@@ -239,7 +239,7 @@ body {
   .card__price-only {
     font-size: 1.4rem; }
   @media (max-width: 56.25em) {
-    .card {
+    .card{
       color: black;
       height: auto;
       border-radius: 3px;
@@ -267,6 +267,11 @@ body {
         color: #000; }
       .card__price-value {
         font-size: 4rem; } }
+
+
+/* Blog Card */
+
+/* End Blog Card */
 
 .header__logo-box {
   position: absolute;
